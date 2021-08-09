@@ -6,8 +6,8 @@ namespace Algorithm_Programs
     {
         static void Main(string[] args)
         {
-            Permutation permutation = new Permutation();
-            permutation.PrintPermutation("abb", "");
+            SearchWorldFromWorldList searchWorldFromWorldList = new SearchWorldFromWorldList();
+            searchWorldFromWorldList.SearchWorld();
         }
     }
 }
