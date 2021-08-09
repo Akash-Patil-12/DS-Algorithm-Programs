@@ -6,8 +6,8 @@ namespace Algorithm_Programs
     {
         static void Main(string[] args)
         {
-            InsertionSort insertionSort = new InsertionSort();
-            insertionSort.InsertionSortMethod();
+            Bubble bubble = new Bubble();
+            bubble.BubbleSort();
         }
     }
 }
