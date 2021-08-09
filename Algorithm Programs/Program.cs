@@ -6,8 +6,8 @@ namespace Algorithm_Programs
     {
         static void Main(string[] args)
         {
-            SearchWorldFromWorldList searchWorldFromWorldList = new SearchWorldFromWorldList();
-            searchWorldFromWorldList.SearchWorld();
+            InsertionSort insertionSort = new InsertionSort();
+            insertionSort.InsertionSortMethod();
         }
     }
 }
